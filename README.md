@@ -10,6 +10,7 @@ Description
 Check out this cool Text Editor app that you can install and use even when you're not connected to the internet. No need to stress about having no internet – you can still get your work done offline. It's perfect for when you're in a spot with bad Wi-Fi or no data. Stay productive with this offline Text Editor – pretty awesome, right?
 
 Deployment 
+Go to this link and install the app now, give it a try!
 https://vast-savannah-89307-307be78d7589.herokuapp.com/
 
 Credits 
